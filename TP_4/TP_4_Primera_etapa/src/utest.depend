@@ -4854,3 +4854,243 @@
 
 1604885114 c:\tp_laboratorio_1\tp_4\linkedlist_cascara_v8\testing\inc\main_test.h
 
+1604885114 source:c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_primera_etapa\testing\src\addnodetest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1604885114 c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_primera_etapa\testing\utest.h
+
+1637783964 c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_primera_etapa\inc\linkedlist.h
+
+1604885114 c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_primera_etapa\testing\inc\employee.h
+
+1604885114 source:c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_primera_etapa\testing\src\addtest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1604885114 source:c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_primera_etapa\testing\src\cleartest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1604885114 source:c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_primera_etapa\testing\src\clonetest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1604885114 source:c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_primera_etapa\testing\src\containsalltest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1604885114 source:c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_primera_etapa\testing\src\containstest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1604885114 source:c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_primera_etapa\testing\src\deletelinkedlisttest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1604885114 source:c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_primera_etapa\testing\src\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../inc/Employee.h"
+
+1604885114 source:c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_primera_etapa\testing\src\getnodetest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1604885114 source:c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_primera_etapa\testing\src\gettest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1604885114 source:c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_primera_etapa\testing\src\indexoftest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1604885114 source:c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_primera_etapa\testing\src\isemptytest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1604885114 source:c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_primera_etapa\testing\src\lentest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1604885114 source:c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_primera_etapa\testing\src\main_test.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	"../inc/newTest.h"
+	"../inc/addTest.h"
+	"../inc/getNodeTest.h"
+	"../inc/addNodeTest.h"
+	"../inc/deleteLinkedListTest.h"
+	"../inc/lenTest.h"
+	"../inc/getTest.h"
+	"../inc/containsTest.h"
+	"../inc/setTest.h"
+	"../inc/removeTest.h"
+	"../inc/clearTest.h"
+	"../inc/cloneTest.h"
+	"../inc/pushTest.h"
+	"../inc/indexOfTest.h"
+	"../inc/isEmptyTest.h"
+	"../inc/popTest.h"
+	"../inc/subListTest.h"
+	"../inc/containsAllTest.h"
+	"../inc/sortTest.h"
+
+1604885114 c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_primera_etapa\testing\inc\newtest.h
+
+1604885114 c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_primera_etapa\testing\inc\addtest.h
+
+1604885114 c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_primera_etapa\testing\inc\getnodetest.h
+
+1604885114 c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_primera_etapa\testing\inc\addnodetest.h
+
+1604885114 c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_primera_etapa\testing\inc\deletelinkedlisttest.h
+
+1604885114 c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_primera_etapa\testing\inc\lentest.h
+
+1604885114 c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_primera_etapa\testing\inc\gettest.h
+
+1604885114 c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_primera_etapa\testing\inc\containstest.h
+
+1604885114 c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_primera_etapa\testing\inc\settest.h
+
+1604885114 c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_primera_etapa\testing\inc\removetest.h
+
+1604885114 c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_primera_etapa\testing\inc\cleartest.h
+
+1604885114 c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_primera_etapa\testing\inc\clonetest.h
+
+1604885114 c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_primera_etapa\testing\inc\pushtest.h
+
+1604885114 c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_primera_etapa\testing\inc\indexoftest.h
+
+1604885114 c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_primera_etapa\testing\inc\isemptytest.h
+
+1604885114 c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_primera_etapa\testing\inc\poptest.h
+
+1604885114 c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_primera_etapa\testing\inc\sublisttest.h
+
+1604885114 c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_primera_etapa\testing\inc\containsalltest.h
+
+1604885114 c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_primera_etapa\testing\inc\sorttest.h
+
+1604885114 source:c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_primera_etapa\testing\src\newtest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+
+1604885114 source:c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_primera_etapa\testing\src\poptest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1604885114 source:c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_primera_etapa\testing\src\pushtest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1604885114 source:c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_primera_etapa\testing\src\removetest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1604885114 source:c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_primera_etapa\testing\src\settest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1604885114 source:c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_primera_etapa\testing\src\sorttest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1604885114 source:c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_primera_etapa\testing\src\sublisttest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1604885114 source:c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_primera_etapa\testing\utest.c
+	"utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1637769873 source:c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_primera_etapa\src\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../testing/inc/main_test.h"
+	"../inc/LinkedList.h"
+
+1604885114 c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_primera_etapa\testing\inc\main_test.h
+

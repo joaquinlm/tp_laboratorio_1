@@ -502,5 +502,6 @@ LinkedList* ll_filter(LinkedList* this, int (*pFunc)(void *))
       }
     }
   }
+}
   return filteredList;
 }
