@@ -65,3 +65,69 @@
 	<string.h>
 	"LinkedList.h"
 
+1637796953 source:c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_segunda_etapa\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"Controller.h"
+	"inputsValidados.h"
+	"menus.h"
+	<string.h>
+	<dirent.h>
+
+1637788313 c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_segunda_etapa\linkedlist.h
+
+1637792856 c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_segunda_etapa\employee.h
+
+1636945512 c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_segunda_etapa\parser.h
+
+1637794931 c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_segunda_etapa\controller.h
+	"Employee.h"
+	"LinkedList.h"
+
+1637463586 c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_segunda_etapa\inputsvalidados.h
+
+1637795094 c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_segunda_etapa\menus.h
+
+1637792846 source:c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_segunda_etapa\employee.c
+	"Employee.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1637618504 source:c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_segunda_etapa\inputsvalidados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"inputsValidados.h"
+
+1637788312 source:c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_segunda_etapa\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1637795884 source:c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_segunda_etapa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"menus.h"
+	"parser.h"
+
+1637795212 source:c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_segunda_etapa\menus.c
+	<stdlib.h>
+	<stdio.h>
+	"inputsValidados.h"
+	"menus.h"
+
+1637449983 source:c:\users\joq\documents\github\tp_laboratorio_1\tp_4\tp_4_segunda_etapa\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+

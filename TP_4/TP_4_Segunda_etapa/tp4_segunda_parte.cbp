@@ -40,12 +40,14 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="Employee.h" />
+		<Unit filename="LinkedList.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="LinkedList.h" />
 		<Unit filename="inputsValidados.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="inputsValidados.h" />
-		<Unit filename="libLinkedList.a" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
