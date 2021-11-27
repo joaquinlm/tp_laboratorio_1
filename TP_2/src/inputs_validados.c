@@ -29,18 +29,21 @@ void ingresarEnterosRango(int *pInput, char mensaje[], char mensajeError[], int 
 {
     int input;
     int intCheck;
+    char buffer[20];
     do
     {
 
         printf("%s\n", mensaje);
         fflush(stdin);
-        intCheck = scanf("%d", &input);
+        intCheck = scanf("%[^\n]", buffer);
+     //   intCheck = scanf("%d ", &input);
+        input = atoi(buffer);
 
-        if (intCheck == 0 || input < lInf || input > lSup)
+        if (intCheck == 0 || input < lInf || input > lSup|| buffer[0]=='\n')
         {
             printf("%s", mensajeError);
         }
-    } while (intCheck == 0 || input < lInf || input > lSup);
+    } while (intCheck == 0 || input < lInf || input > lSup|| buffer[0]=='\n');
 
     *pInput = input;
 }
@@ -111,18 +114,22 @@ void ingresarFlotantesRango(float *pInput, char mensaje[], char mensajeError[], 
 {
     float input;
     int intCheck;
+    char buffer[20];
     do
     {
 
         printf("%s\n", mensaje);
         fflush(stdin);
-        intCheck = scanf("%f", &input);
+      //  intCheck = scanf("%f", &input);
+        intCheck = scanf("%[^\n]", buffer);
+     //   intCheck = scanf("%d ", &input);
+        input = atof(buffer);
 
-        if (intCheck == 0 || input < lInf || input > lSup)
+        if (intCheck == 0 || input < lInf || input > lSup|| buffer[0]=='\n')
         {
             printf("%s", mensajeError);
         }
-    } while (intCheck == 0 || input < lInf || input > lSup);
+    } while (intCheck == 0 || input < lInf || input > lSup|| buffer[0]=='\n');
 
     *pInput = input;
 }
