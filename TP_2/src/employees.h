@@ -24,6 +24,9 @@ int printOneEmployee(Employee employee, int len);
 int printEmployees(Employee *list, int len);
 int addEmployee(Employee *list, int len, int id, char name[], char lastName[], float salary, int sector);
 int removeEmployee(Employee *list, int len, int id);
+int modificarEmpleado(Employee *list, int len, int id);
+int calculosSalariales(Employee list[], int len, int contadorEmpleados);
+
 
 
 
