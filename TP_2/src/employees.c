@@ -274,6 +274,13 @@ int calculosSalariales(Employee *list, int len, int contadorEmpleados)
         {
             printf("El salario promedio es de: %.2f \n", promedioSalarios);
             printf("Un total de %d empleado/s cobra/n un sueldo por encima del promedio\n", empleadosSalarioArribaMedia);
+            for(int i = 0; i<len;i++ )
+            {
+                if (list[i].salary > promedioSalarios && list[i].isEmpty == 0)
+                {
+                    printOneEmployee(list[i], len);
+                }
+            }
         }
         else
         {
